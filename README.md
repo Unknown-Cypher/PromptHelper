@@ -1,5 +1,7 @@
-# Wishlist Tracker
+# PromptHelper
 
+## About
+This contains a webiste with which we can search and share prompts about various topics.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
